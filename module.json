@@ -1,0 +1,48 @@
+{
+  "id": "scholar",
+  "title": "Scholar",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "flags": {
+	"scholar": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "scholar": {
+            "label": "Scholar",
+            "description": "Feats or features for the Scholar Class."
+          },
+          "plan": {
+            "label": "Plan",
+            "description": "Decisions made during daily preparation in a collegium that can be used once per day"
+          },
+          "theory": {
+            "label": "Theory",
+            "description": "Theories that the Scholar can begin to figure out the fundamentals of the universe"
+          },
+          "breakthrough": {
+            "label": "Breakthrough",
+            "description": "Ways that the scholar can come to realizations about their theories"
+          }
+        }
+      }
+    }
+  },
+  "packs": [
+    {
+      "name": "scholar",
+      "label": "Scholar",
+      "path": "packs/scholar",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
