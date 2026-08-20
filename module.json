@@ -1,7 +1,9 @@
 {
   "id": "scholar",
   "title": "Scholar",
-  "version": "1.0.0",
+  "version": "1.0.0", 
+  "manifest": "https://github.com/Eric-1917/PF2eScholar/edit/main/module.json",
+  "download": "https://github.com/Eric-1917/PF2eScholar/edit/main/module.json",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
